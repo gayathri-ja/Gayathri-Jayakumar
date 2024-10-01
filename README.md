@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gayathri Jayakumar</h1>
-<h3 align="center">A passionate tech enthusiast transitioning from Application Support to Cloud and DevOps Engineering. I recently completed a postgraduate diploma in DevOps for Cloud Computing.</h3>
+<h3 align="center">A passionate tech enthusiast transitioning from Application Support to Cloud and DevOps Engineering.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayathri-ja" alt="gayathri-ja" /></a> </p>
 
